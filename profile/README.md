@@ -2,17 +2,17 @@
 
 ![Logo](https://forinexbotweb.oss-cn-shanghai.aliyuncs.com/Logo_dot.png)
 
-纳博特科技致力于多轴运动控制技术的研发及行业解决方案的应用推广。其核心技术包括基于 PLCopen 的多轴运动控制，机器人运动学，动力学算法，多智能体控制，强化学习，在线轨迹规划，视觉手眼标定技术，3D 视觉，力控等。目前主要的产品覆盖了工业机器人，协作机器人，医疗手术机器人，晶圆机器人，汽车电子等多个领域。
+iNexBot is dedicated to the research and development of multi-axis motion control technology and the application and promotion of industry solutions. Its core technologies include PLCopen-based multi-axis motion control, robot kinematics, dynamics algorithms, multi-intelligent body control, reinforcement learning, online trajectory planning, visual hand-eye calibration technology, 3D vision, force control, etc. Currently, its main products cover industrial robots, collaborative robots, medical surgery robots, wafer robots, automotive electronics and many other fields.
 
-纳博特的核心产品工业机器人运动控制系统已广泛应用于中国工业机器人行业，累计销售超过 1 万台，应用于焊接，冲压，码垛，喷涂等多种工业场景。
+iNexBot's core product, industrial robot motion control system, has been widely used in China's industrial robot industry, with cumulative sales of over 10,000 units, which are used in a variety of industrial scenarios such as welding, stamping, palletizing and painting.
 
-纳博特自主研发的开放型 NexDroid 软件系统，可以提供稳定可靠，功能丰富的二次开发接口(NexDroidAPI). NexDroid 屏蔽了硬件设备层与应用层，让合作伙伴只需关注行业需求，利用 NexDroidAPI,结合行业经验，就可开发新型自动化装备，如医疗、核能、工程机械、风电等行业设备。
+iNexBot's self-developed open NexDroid software system can provide a stable, reliable and feature-rich secondary development interface (NexDroid API). NexDroid shields the hardware device layer and application layer, allowing partners to focus only on industry needs. Using NexDroid API, combined with industry experience, they can develop new automation equipment, such as medical, nuclear, construction machinery, wind power and other industry equipment.
 
-目前纳博特科技已经成长为中国运动控制行业的优秀合作伙伴，服务对象覆盖了富士康、比亚迪、海康、华为、闻泰，奇创、藦卡，大研等行业领军企业。
+Now iNexBot has grown into an excellent partner in China's motion control industry, with services covering industry leaders such as Foxconn, BYD, Hikrobot, Huawei, WingTech, Qichuang, Moka, and Tamasec.
 
-纳博特拥有超过 60 名研发工程师，分布在南京和东莞两地，是国家高新技术企业，已申请数十余项专利和著作权。 纳博特机器人系统也通过了 ISO9001，CE 和国家软件产品认证，满足苛刻的工业现场环境。
+With more than 60 R&D engineers located in Nanjing and Dongguan, iNexBot is a national high-tech enterprise and has applied for dozens of patents and copyrights. iNexBot's robot system has also passed ISO9001, CE and national software product certification to meet the demanding industrial field environment.
 
-纳博特积极参与运动控制行业标准的技术方案讨论与制定。目前纳博特已经成为 ETG,CLPA,OPCUA 等行业协会会员。未来纳博特将聚焦于基于 TSN，5G，IEC-61499,OPC-UA 等技术的推广和应用领域。
+iNexBot is actively involved in the discussion and development of technical solutions for motion control industry standards. Currently, iNexBot is a member of ETG, CLPA, OPCUA and other industry associations. In the future, iNexBot will focus on the promotion and application of technologies based on TSN, 5G, IEC-61499, OPC-UA, etc.
 
 Official:[https://www.inexbot.com](https://www.inexbot.com)
 
